@@ -1,3 +1,12 @@
+# Bienvenido a este proyecto!
+
+Vamos a levantar el aspecto visual del proyecto, simplemente necesitamos contar con NPM instalado y correr los siguiente comandos:
+
+ 1. npm install
+ 2. npm start
+
+Y ya tendriamos ejecutando nuestro proyecto creado con base **React**.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
