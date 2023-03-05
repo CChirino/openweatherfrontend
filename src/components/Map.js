@@ -18,7 +18,7 @@ L.Marker.prototype.options.icon = DefaultIcon;
 function Maps(){
     const [cities, setCities] = useState([]);
     const fetchCitiesData = () => {
-        fetch("http://openweather.local:8083/api/weather")
+        fetch("http://openweather.local:8083/api/v1/weather")
           .then(response => {
             return response.json()
           })
